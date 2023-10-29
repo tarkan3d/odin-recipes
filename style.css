@@ -1,0 +1,30 @@
+* {
+    font-size:24px;
+    font-family:Helvetica, Arial, sans-serif;
+    background-color: rgb(43, 129, 204);
+    color:white;
+}
+
+h1 {
+    font-weight: 800;
+    font-size:36px;
+    text-align: center;
+}
+
+.text {
+    background-color: rgba(0, 245, 245, 0.166);
+}
+
+a {
+    text-decoration: none;
+    background-color: rgba(137, 43, 226, 0.64);
+}
+
+li {
+    list-style-type:none;
+}
+
+img {
+    border-radius:24px;
+    border-style:dotted
+}
